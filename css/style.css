@@ -8,7 +8,7 @@
 
 
 /*Preload*/
-/* #hellopreloader>p {
+#hellopreloader>p {
   display: none;
 }
 #hellopreloader_preload {
@@ -22,7 +22,7 @@
   background: #65C6BB url(http://hello-site.ru//main/images/preloads/puff.svg) center center no-repeat fixed;
   background-size: 150px;
   background-attachment: fixed;
-} */
+}
 
 body {
   position: relative;
