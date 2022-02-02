@@ -514,17 +514,7 @@ footer p{
     font-size: 20px;
   }
 
-  .header__burger.active::before{
-    transform: rotate(45deg);
-    top: 13px;
-  }
-  .header__burger.active::after{
-    transform: rotate(-45deg);
-    bottom: 13px;
-  }
-  .header__burger.active span{
-    transform: scale(0);
-  }
+  
 
   /*Бургер меню*/
 
