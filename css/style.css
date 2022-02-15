@@ -332,15 +332,17 @@ body.switchMode a.btn{
   }
 
   .img-yet{
-    margin-top: -54%;
+    /* margin-top: -54%; */
     opacity: 0;
     transition: all 1s ease;
+    display: none;
   }
 
   img.active-yet{
     margin-top: 0;
     opacity: 1;
     transition: all 1s ease;
+    display: block;
   }
 
 
